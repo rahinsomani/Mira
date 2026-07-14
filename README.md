@@ -13,6 +13,7 @@ src/mira/
 │   └── tts.py         text-to-speech
 ├── data/
 │   ├── glucose_store.py     glucose reading access
+│   ├── sandbox_egvs.json    sample readings (Dexcom sandbox-shaped)
 │   └── nutrition_store.py   nutrition lookup
 ├── llm/
 │   ├── client.py       LLM client
@@ -26,7 +27,7 @@ tests/
 
 | Module | Suggested owner |
 |---|---|
-| `llm/` | Rahin |
-| `data/` | Shresta / Lana |
-| `voice/` | open |
-| `display/` | Russell |
+| `llm/` |  |
+| `data/` |  |
+| `voice/` |  |
+| `display/` |  |

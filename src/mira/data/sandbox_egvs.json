@@ -1,0 +1,18 @@
+{
+  "_source": "Shaped after the Dexcom sandbox /v3/users/self/egvs response (https://developer.dexcom.com/docs/dexcom/sandbox-data). Values converted to mmol/L per project convention. Sandbox data repeats on a 10-day cycle and is not representative of production accuracy.",
+  "unit": "mmol/L",
+  "egvs": [
+    { "displayTime": "2026-07-14T07:00:00", "value": 6.1, "trend": "flat" },
+    { "displayTime": "2026-07-14T07:05:00", "value": 6.3, "trend": "flat" },
+    { "displayTime": "2026-07-14T07:10:00", "value": 6.6, "trend": "fortyFiveUp" },
+    { "displayTime": "2026-07-14T07:15:00", "value": 6.9, "trend": "fortyFiveUp" },
+    { "displayTime": "2026-07-14T07:20:00", "value": 7.2, "trend": "singleUp" },
+    { "displayTime": "2026-07-14T07:25:00", "value": 7.4, "trend": "fortyFiveUp" },
+    { "displayTime": "2026-07-14T07:30:00", "value": 7.5, "trend": "flat" },
+    { "displayTime": "2026-07-14T07:35:00", "value": 7.4, "trend": "flat" },
+    { "displayTime": "2026-07-14T07:40:00", "value": 7.3, "trend": "flat" },
+    { "displayTime": "2026-07-14T07:45:00", "value": 7.1, "trend": "fortyFiveDown" },
+    { "displayTime": "2026-07-14T07:50:00", "value": 6.9, "trend": "fortyFiveDown" },
+    { "displayTime": "2026-07-14T07:55:00", "value": 6.7, "trend": "flat" }
+  ]
+}
