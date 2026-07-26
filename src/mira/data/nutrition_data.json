@@ -1,0 +1,26 @@
+{
+  "_source": "Small hand-curated set of common foods for prototype meal guidance (F2). Carb values are approximate per typical serving.",
+  "foods": [
+    { "name": "toast", "carbs_g": 15, "glycemic_impact": "medium", "note": "one slice of white toast, moderate carbs" },
+    { "name": "white bread", "carbs_g": 15, "glycemic_impact": "medium", "note": "one slice, similar to toast" },
+    { "name": "whole wheat bread", "carbs_g": 12, "glycemic_impact": "low", "note": "one slice, more fibre than white bread" },
+    { "name": "oatmeal", "carbs_g": 27, "glycemic_impact": "low", "note": "one cup cooked, slow-digesting carbs" },
+    { "name": "banana", "carbs_g": 27, "glycemic_impact": "medium", "note": "one medium banana" },
+    { "name": "apple", "carbs_g": 25, "glycemic_impact": "low", "note": "one medium apple, fibre slows the rise" },
+    { "name": "orange juice", "carbs_g": 26, "glycemic_impact": "high", "note": "one cup, no fibre so it raises glucose quickly" },
+    { "name": "white rice", "carbs_g": 45, "glycemic_impact": "high", "note": "one cup cooked" },
+    { "name": "brown rice", "carbs_g": 45, "glycemic_impact": "medium", "note": "one cup cooked, more fibre than white rice" },
+    { "name": "pasta", "carbs_g": 43, "glycemic_impact": "medium", "note": "one cup cooked" },
+    { "name": "potato", "carbs_g": 37, "glycemic_impact": "high", "note": "one medium baked potato" },
+    { "name": "sweet potato", "carbs_g": 24, "glycemic_impact": "medium", "note": "one medium, slightly lower impact than a regular potato" },
+    { "name": "eggs", "carbs_g": 1, "glycemic_impact": "low", "note": "two eggs, mostly protein and fat" },
+    { "name": "chicken breast", "carbs_g": 0, "glycemic_impact": "low", "note": "plain, no carbs" },
+    { "name": "salmon", "carbs_g": 0, "glycemic_impact": "low", "note": "plain, no carbs" },
+    { "name": "yogurt", "carbs_g": 17, "glycemic_impact": "medium", "note": "one cup plain yogurt" },
+    { "name": "milk", "carbs_g": 12, "glycemic_impact": "low", "note": "one cup" },
+    { "name": "cereal", "carbs_g": 24, "glycemic_impact": "high", "note": "one cup, varies a lot by brand" },
+    { "name": "crackers", "carbs_g": 20, "glycemic_impact": "medium", "note": "about six crackers" },
+    { "name": "cookies", "carbs_g": 22, "glycemic_impact": "high", "note": "two medium cookies, added sugar" },
+    { "name": "candy", "carbs_g": 30, "glycemic_impact": "high", "note": "small handful, fast-acting sugar" }
+  ]
+}
