@@ -1,6 +1,6 @@
 # mira-system
 
-Code scaffold for Mira (see `../CLAUDE.md` for full project context): a
+Code scaffold for Mira: a
 voice-first ambient smart mirror that shows CGM glucose readings and answers
 spoken questions about glucose and food, with an LLM in the loop.
 
